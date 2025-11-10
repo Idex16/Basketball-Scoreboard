@@ -64,5 +64,5 @@ function incrementGuestFoul() {
 document.getElementById("foulhome").addEventListener("click", incrementHomefoul)
 document.getElementById("foulguest").addEventListener("click", incrementGuestFoul)
 
-s
+
 
